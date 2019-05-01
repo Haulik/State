@@ -10,7 +10,7 @@ public class HasPin implements ATMState {
     @Override
     public void insertCard() {
 
-        System.out.println("How the fuck are this stupid, you can't enter more than one card");
+        System.out.println("How the fuck are you this stupid, you can't enter more than one card");
 
     }
 

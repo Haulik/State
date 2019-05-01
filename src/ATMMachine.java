@@ -44,7 +44,7 @@ public class ATMMachine {
     public void requestCash(int cashToWithdraw){
         atmState.requestCash(cashToWithdraw);
     }
-    public void inserPin(int PinEntered){
+    public void insertPin(int PinEntered){
         atmState.insertPin(PinEntered);
     }
 

@@ -10,12 +10,12 @@ public class TestATMMachine {
 
         atmMachine.insertCard();
 
-        atmMachine.inserPin(1234);
+        atmMachine.insertPin(1234);
 
         atmMachine.requestCash(2000);
 
         atmMachine.insertCard();
 
-        atmMachine.inserPin(1234);
+        atmMachine.insertPin(1234);
     }
 }
